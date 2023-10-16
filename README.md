@@ -1,10 +1,15 @@
 ### Hi there 👋
 
+I'm Sérgio Ribeiro and recently finished my Master degree in Data Science for the [Instituto Politécnico de Leiria][link IPL].
+
+Currently, I'm deepening my [SLQ][link cs50sql] and [Python][link cs50python] skills with CS50 courses.
+
+[link IPL]: https://www.ipleiria.pt/
+
+[link cs50sql]: https://www.harvardonline.harvard.edu/course/cs50s-introduction-databases-sql
+
+[link cs50python]: https://pll.harvard.edu/course/cs50s-introduction-programming-python
 <!--
-**SergioVR96/SergioVR96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
